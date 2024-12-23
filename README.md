@@ -3,7 +3,7 @@ This git serves as a boilerplate for that who are having a hard time creating an
 
 ## Installation
 ```
-1. git clone [https://github.com/senpai0807/Sneaker-Monitor.git](https://github.com/senpai0807/express-server-boilerplate.git)
+1. git clone https://github.com/senpai0807/express-server-boilerplate.git
 2. cd to the repo
 3. pnpm install, yarn install, npm install
 4. node ./src/server.js
